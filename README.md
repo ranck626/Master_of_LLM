@@ -6,3 +6,4 @@
 
 ### **2. 技术架构**
 
+![LLM八股仙人.drawio](https://github.com/ranck626/Master_of_LLM/blob/main/LLM%E5%85%AB%E8%82%A1%E4%BB%99%E4%BA%BA.drawio.png)
